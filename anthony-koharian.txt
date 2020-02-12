@@ -1,6 +1,8 @@
-<!-- reveiw questions to Submit in today's file firt-lastname.txt --> 
-<!--
-Copy the questions below into the firt-lastname.txt file on your github repo - answer each question and then push your changes. 
+
+https://codepen.io/akohar/pen/BaNoovj?editors=1100
+
+
+Q & A:
 
     1. What is Semantic HTML? 
     HTML markup that is descriptive of the content it is marking up.
@@ -133,7 +135,3 @@ Stretch Questions
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
     5. In your own words, explain the box model. What is the fix for the box model? 
-
-
-
-   --> 
