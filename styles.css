@@ -1,0 +1,57 @@
+
+
+
+/* default styling */
+* {
+  box-sizing: border-box; /* always have this in css to fix box model */
+  color: dimgrey;
+}
+
+/*
+ display: inline, block, inline-block, none
+
+ inline - continuous on the same line, no width or height
+ block - takes up 100% of screen width, pushes elements to next line
+ inline-block - best of both worlds
+ none - takes no space on screen
+
+*/
+
+#all-container {
+  margin: 4pt;
+  padding: 20pt 80pt;
+  border: 15pt solid cadetblue;
+}
+
+#intro {
+  text-align: center;
+  background-color: cyan;
+
+}
+
+#main-blurb {
+
+}
+
+#suppor-blurb {
+
+}
+
+#header-details-box {
+  background-color: lightgreen;
+  padding: 30pt;
+  font-size: x-large;
+}
+#header-details-box:hover {
+  background-color: lightsalmon;
+}
+
+#main-blurb-box {
+  background-color: lightslategray;
+  color: whitesmoke;
+  padding: 50pt;
+  font-size: x-large;
+}
+#main-blurb-box:hover {
+  background-color: lightpink;
+}
